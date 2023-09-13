@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  
+  "devDependencies": {
+    "@mysten/sui.js": "^0.41.2"
+  }
+}
